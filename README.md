@@ -45,8 +45,7 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 ### Setup
 
-1. Create a fork of this repository on Github.com
-1. Clone your new fork to the `critical-web-design` folder on your machine (Open with Github Desktop)
+Create a [fork](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.gad119073e1_0_6) of this repository and [clone](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.g9930d559e8_0_0) it to the `critical-web-design` folder on your machine.
 
 
 ### Code
