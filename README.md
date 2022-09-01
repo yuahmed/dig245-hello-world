@@ -75,12 +75,18 @@ Add the following content inside `index.html`. Use HTML to make your text readab
 
 Points | Description
 ---: | ---
-5 | Correct information provided
-5 | Instructions followed
-5 | Project is online, accessible, and linked from Moodle by the deadline
-5 | Code is working (as intended)
+10 | The HTML document uses correct structure, nesting, and syntax throughout.
+10 | HTML code makes the content easy to read and understand.
+10 | The student expanded their knowledge on their own (e.g. experimented with new tags).
+10 | All code is working as intended.
+10 | The content of the page follows parameters outlined in instructions.
+10 | The example websites are specific and show a high degree of thought.
+10 | The Learn Computing module reflections show significant engagement.
+10 | An HTML comment reflects on the difficulty of this assignment.
+10 | The commit names in the Git repository are specific to the work performed.
+10 | The project is online, accessible, and linked from Moodle by the deadline.
 +5% | Bonus! Add more info with these [tags](https://www.w3schools.com/tags/default.asp) for extra points `<pre>`, `<blockquote>`, `<img>`, +2 more *new to you* tags…
-20 | Total possible
+100 | Total possible
 
 </details>
 
