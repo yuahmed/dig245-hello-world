@@ -11,6 +11,8 @@ An introduction to HTML
 
 ## Introduction
 
+A simple assignment to practice using Atom, Git, and Github to write, track, and publish HTML pages.
+
 
 <details>
 <summary>Learning Objectives</summary>
@@ -33,9 +35,30 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 - [Codecademy: HTML 1-1 Introduction](https://www.codecademy.com/learn/learn-html) (1-16)
 - [Codecademy: HTML 1-2 Document Standards](https://www.codecademy.com/learn/learn-html) (1-14)
+- Course content listed on the schedule
 
 </details>
 
+
+<details>
+<summary>Rubric</summary>
+
+Points | Description
+---: | ---
+10 | The HTML document uses correct structure, nesting, and syntax throughout.
+10 | HTML code makes the content easy to read and understand.
+10 | The student expanded their knowledge on their own (e.g. experimented with new tags).
+10 | All code is working as intended.
+10 | The content of the page follows parameters outlined in instructions.
+10 | The example websites are specific and show a high degree of thought.
+10 | The Learn Computing module reflections show significant engagement.
+10 | An HTML comment reflects on the difficulty of this assignment.
+10 | The commit names in the Git repository are specific to the work performed.
+10 | The project is online, accessible, and linked from Moodle by the deadline.
++5% | Bonus! Add more info with these [tags](https://www.w3schools.com/tags/default.asp) for extra points `<pre>`, `<blockquote>`, `<img>`, +2 more *new to you* tags…
+100 | Total possible
+
+</details>
 
 
 
@@ -69,26 +92,6 @@ Add the following content inside `index.html`. Use HTML to make your text readab
 
 
 
-
-<details open>
-<summary>Grading</summary>
-
-Points | Description
----: | ---
-10 | The HTML document uses correct structure, nesting, and syntax throughout.
-10 | HTML code makes the content easy to read and understand.
-10 | The student expanded their knowledge on their own (e.g. experimented with new tags).
-10 | All code is working as intended.
-10 | The content of the page follows parameters outlined in instructions.
-10 | The example websites are specific and show a high degree of thought.
-10 | The Learn Computing module reflections show significant engagement.
-10 | An HTML comment reflects on the difficulty of this assignment.
-10 | The commit names in the Git repository are specific to the work performed.
-10 | The project is online, accessible, and linked from Moodle by the deadline.
-+5% | Bonus! Add more info with these [tags](https://www.w3schools.com/tags/default.asp) for extra points `<pre>`, `<blockquote>`, `<img>`, +2 more *new to you* tags…
-100 | Total possible
-
-</details>
 
 
 
