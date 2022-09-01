@@ -55,8 +55,8 @@ Points | Description
 10 | An HTML comment reflects on the difficulty of this assignment.
 10 | The commit names in the Git repository are specific to the work performed.
 10 | The project is online, accessible, and linked from Moodle by the deadline.
-+5% | Bonus! Add more info with these [tags](https://www.w3schools.com/tags/default.asp) for extra points `<pre>`, `<blockquote>`, `<img>`, +2 more *new to you* tags…
 100 | Total possible
++5% | Bonus! Add more info with these [tags](https://www.w3schools.com/tags/default.asp) for extra points `<pre>`, `<blockquote>`, `<img>`, +2 more *new to you* tags…
 
 </details>
 
