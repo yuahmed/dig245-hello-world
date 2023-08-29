@@ -31,11 +31,12 @@ Students who complete this assignment will be able to:
 <details>
 <summary>Preparation</summary>
 
-Complete the following to prepare for this assignment. See [Resources](#resources) for additional information as needed.
+Complete the following to prepare for this assignment. 
 
+- Chapter 1 of Critical Web Design
 - [Codecademy: HTML 1-1 Introduction](https://www.codecademy.com/learn/learn-html) (1-16)
 - [Codecademy: HTML 1-2 Document Standards](https://www.codecademy.com/learn/learn-html) (1-14)
-- Course content listed on the schedule
+- See [Resources](#resources) for additional information as needed.
 
 </details>
 
