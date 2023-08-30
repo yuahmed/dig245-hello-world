@@ -36,7 +36,7 @@ Complete the following to prepare for this assignment.
 - Chapter 1 of Critical Web Design
 - [Codecademy: HTML 1-1 Introduction](https://www.codecademy.com/learn/learn-html) (1-16)
 - [Codecademy: HTML 1-2 Document Standards](https://www.codecademy.com/learn/learn-html) (1-14)
-- See [Resources](#resources) for additional information as needed.
+- Refer to [Resources](#resources) and course content listed on the schedule as needed.
 
 </details>
 
@@ -99,4 +99,5 @@ Add the following content inside `index.html`. Use HTML to make your text readab
 ## Resources
 
 - Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
+- [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
 - [The History Behind “Hello World”](https://www.elegantthemes.com/blog/wordpress/the-history-behind-hello-world)
