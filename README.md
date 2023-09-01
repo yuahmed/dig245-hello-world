@@ -1,7 +1,6 @@
 
 # Hello World!
 
-
 ![hello-world](assets/img/hello-world.png)
 
 
@@ -71,11 +70,11 @@ Add the following in `index.html`. Use HTML to make your text readable. Experime
 
 1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics/keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 1. Commit changes regularly.
-1. When finished, push, publish, and post your project per the Assignments.
+1. When finished, push, publish, and post all deliverables to Moodle per documentation in the Assignments.
 
 
 ## Resources
 
 - Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
-- [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
+- [Mozilla Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
 - [The History Behind “Hello World”](https://www.elegantthemes.com/blog/wordpress/the-history-behind-hello-world)
