@@ -51,9 +51,7 @@ See Moodle.
 
 ## Setup
 
-Fork this repository and clone it to the `critical-web-design` folder on your machine. 
-
-
+[Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to the `Sites` folder on your machine.
 
 
 ## Code
@@ -74,8 +72,6 @@ Add the following in `index.html`. Use HTML to make your text readable. Experime
 1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics/keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 1. Commit changes regularly.
 1. When finished, push, publish, and post your project per the Assignments.
-
-
 
 
 ## Resources
